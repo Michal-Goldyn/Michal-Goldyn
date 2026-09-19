@@ -1,4 +1,4 @@
-### Hi, I'm Michal
+### Hi, I'm Michal 👋
 
 I run e-commerce stores and automate most of the boring parts myself - Python pipelines, Shopify APIs, n8n workflows, a few Hetzner boxes.
 
